@@ -333,7 +333,7 @@ if __name__ == "__main__":
     # WARNING(日志级别) : root(logger实例名称) : warn message(日志消息内容)
     # 日志的级别有 DEBUG INFO WARNING ERROR CRITICAL
     weibo = WeiBoLogin()
-    weibo.login("17751772086", "950813lxp")
+    weibo.login("username", "password")
 
 
     
